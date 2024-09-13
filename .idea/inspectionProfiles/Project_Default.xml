@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="openai" />
+            <item index="1" class="java.lang.String" itemvalue="mentor-ai-resources" />
+            <item index="2" class="java.lang.String" itemvalue="pydantic" />
+            <item index="3" class="java.lang.String" itemvalue="decorator" />
+            <item index="4" class="java.lang.String" itemvalue="firebase-admin" />
+            <item index="5" class="java.lang.String" itemvalue="pydantic_settings" />
+            <item index="6" class="java.lang.String" itemvalue="py" />
+            <item index="7" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="8" class="java.lang.String" itemvalue="pytz" />
+            <item index="9" class="java.lang.String" itemvalue="retry" />
+            <item index="10" class="java.lang.String" itemvalue="fastapi" />
+            <item index="11" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="12" class="java.lang.String" itemvalue="groq" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
